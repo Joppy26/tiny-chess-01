@@ -29,7 +29,7 @@ from book openings, talking to the env at `MAKEFUN_ENV_URL`.
 
 ## Layout
 
-- `main.py` (4,088 bytes) - the engine, the only entrypoint.
+- `main.py` (4,093 bytes) - the engine, the only entrypoint.
 - `README.md` - this file.
 - `LICENSE` - MIT.
 - `.makefun/owner.json` - ownership claim for the make.fun account.
